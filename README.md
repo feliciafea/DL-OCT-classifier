@@ -17,3 +17,8 @@ The following steps will show you how to setup the three main notebooks in Googl
 2. Zip the OCT folder into a file called OCT.zip and upload that file to Google Drive.
 3. Open the notebook in Google Colab and update the second cell to contain the path of your OCT.zip within Google Drive.
 4. From here you should be able to successfully run the notebook. We recommend using a GPU for reasonable training times.
+
+## Report 
+
+The CVPR-formatted paper can be found in this repository as a pdf.
+
